@@ -5,5 +5,5 @@ Do whatever you want
 - [x] Create text files
 - [x]	Create a branch
 - [x]	Create files on a branch different from main
-- [ ]	Merge a branch to main
-- [ ]	Other?
+- [ ]	Move a file from one branch to another
+- [ ]	Merge a branch to the main
