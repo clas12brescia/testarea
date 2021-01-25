@@ -1,0 +1,12 @@
+Ciao, questo è un altro file di testo.
+
+Stefano
+
+P.S: git push funziona ma dà il seguente errore:
+error: update_ref failed for ref 'refs/remotes/origin/main': 
+cannot lock ref 'refs/remotes/origin/main': 
+Unable to create '/home/stefano/phd_bs/jlab/testarea/.git/refs/remotes/origin/main.lock': Permission denied
+
+Non aggiorna HEAD e main, ma lo carica correttamente sulla repository.
+
+AGGIORNAMENTO: sto modificando questo file dal branch1.
