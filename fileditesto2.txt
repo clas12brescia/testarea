@@ -11,3 +11,6 @@ Non aggiorna HEAD e main, ma lo carica correttamente sulla repository.
 
 AGGIORNAMENTO: sto modificando questo file dal branch1.
 AGGIORNAMENTO 2: provo a fare un rebase merging, che sembra la cosa più simile che ho visto online.
+
+
+ULTERIORE AGGIORNAMENTO: sto facendo un'altra prova per mantenere la storia integra e modificare il presente file.
