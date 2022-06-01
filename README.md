@@ -10,3 +10,12 @@
 Do whatever you want
 
 
+### Images
+
+PNG
+
+![](./temperature.png)
+
+SVG
+
+<img src="data processing scheme ASACUSA CERN 2022.svg">
